@@ -1,0 +1,140 @@
+div.footer {
+    background: #F7F7F7;
+    height: 40px;
+    border-top: 1px solid #CCCCCC;
+}
+.footer2 {
+    padding: 12px;
+    font-size: 12px;
+}
+div.content {
+    margin: 0 auto;
+    max-width: 360px;
+    max-width: 420px;
+    padding: 17px 0px;
+    /*height: 527px;*/
+}
+.content2 {
+    padding: 40px;
+    /* height: 505px; */
+    color: #5f5f5f;
+    /* border: 1px solid #EEEEEE; */
+    background: #FFFFFF;
+    /* background: #F7F7F7; */
+    box-shadow: 0px 1px 2px #7F7F7F;
+    box-shadow: 0px 1px 2px #C0C0C0;
+    border-top: 1px solid #EEEEEE;
+}
+.submit2 {
+    background: #CCCCCC;  background: -webkit-linear-gradient(top, #FFFFFF, #EEEEEE);  font-size: 12px;  border: 1px solid #CCCCCC;  
+    padding: 9px;  padding-left: 11px;  background: #2D97EC;  background: linear-gradient(to bottom, #209EFF, #2D97EC);  border: 1px solid #2D97EC;  color: #FFFFFF;  font-weight: bold;  padding-right: 11px; height: 40px; padding: 12px; border-radius: 2px; 
+    font-family: arial;
+    /* background: -webkit-linear-gradient(top, #2A9AF0, #2C89D4); */  
+    /* border: 1px solid #2C89D4; */;
+    /* width: 100%; */
+    /* border-radius: 2px; */
+    width: 99%;
+    border-radius: 2px;
+}
+.submit {
+    padding-top: 15px;
+}
+.textbox {
+    padding: 5px 0px;
+}
+.text {
+    /* padding-top: 20px; */
+    padding-bottom: 12px;
+    font-size: 12px;
+    padding-left: 0px;
+    /* float: right; */
+    color: #2D97EC;
+    color: #7f7f7f;
+}
+.textbox1 {
+    width: 92%;
+    padding: 10px 7px;
+    border: 1px solid #CCCCCC;
+    height: 100px;
+    font-size: 12px;
+}
+.textbox2 {
+    width: 93%;
+    padding: 12px 7px;
+    padding: 0px 7px;
+    height: 44px;
+    border: 1px solid #E0E0E0;
+    border: 1px solid #E7E7E7;
+    border-top: 1px solid #C0C0C0;
+    border-top: 1px solid #CCCCCC;
+    font-size: 14px;
+    border-radius: 2px;
+    color: #7f7f7f;
+}
+.error2 {
+    font-size: 12px;
+    color: #FFFFFF;
+    background: #2f2f2f;
+    padding: 7px;
+}
+
+.content2 h1 {
+    padding-bottom: 17px;
+    font-size: 22px;
+}
+input.textbox2:focus {
+    outline: 1px solid #2D97EC;
+}
+
+.text2 {
+    font-size: 12px;
+    padding: 20px 0px 10px;
+    margin: 0 auto;
+    max-width: 215px;
+    color: #5f5f5f;
+    font-weight: bold;
+}
+
+a.text4 {
+    text-decoration: underline;
+}
+
+.text6 {
+    padding-left: 80px;
+    /* padding-top: 10px; */
+    padding-bottom: 20px;
+    display: none;
+}
+
+.text2 {}
+
+form#contact {
+    /* clear: both; */
+}
+
+.clear {}
+
+.text5 {
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    color: #7f7f7f;
+}
+
+.text4 {
+}
+
+.text12 {
+    padding: 10px 1px 2px;
+    font-size: 14px;
+    display: none;
+    color: #7f7f7f;
+}
+
+input.textbox2:hover {
+    /* border: 1px solid #C0C0C0; */
+}
+
+.text a:hover {
+    /* text-decoration: underline; */
+}
